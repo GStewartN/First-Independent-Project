@@ -2,10 +2,6 @@
   font-weight: bold;
 }
 
-.float {
-  float: right;
-}
-
 .center {
   text-align: center;
 }
@@ -17,4 +13,9 @@ li {
 .title-box {
   border-style: solid;
   border-color: black;
+  background-color: grey;
+  border-width: thick;
+}
+.fonts h3 {
+  font-family: sans-serif;
 }
