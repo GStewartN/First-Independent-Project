@@ -19,3 +19,7 @@ li {
 .fonts h3 {
   font-family: sans-serif;
 }
+
+.float-head {
+  float: left;
+}
