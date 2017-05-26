@@ -1,34 +1,34 @@
-# _{Portfolio}_
+# _Portfolio_
 
-#### _{Portfolio Webpage}, {05.26.2017}_
+#### _Portfolio Webpage, 05.26.2017_
 
-#### By _**{Nathan Stewart}**_
+#### By _**Nathan Stewart**_
 
 ## Description
 
-_{This is a weekly code review project for Epicodus Intro to Programming class. Create a "portfolio" repo complete with a portfolio webpage, readme, gh-pages branch, and show commit history. The webpage, as well as the project itself is designed to demonstrate my first week skills using html, css, bootstrap, the command line, atom, and github.}_
+_This is a weekly code review project for Epicodus Intro to Programming class. Create a "portfolio" repo complete with a portfolio webpage, readme, gh-pages branch, and show commit history. The webpage, as well as the project itself is designed to demonstrate my first week skills using html, css, bootstrap, the command line, atom, and github._
 
 ## Setup/Installation Requirements
 
 None
 
-_{Internet connection and web browser required for viewing.}_
+_Internet connection and web browser required for viewing._
 
 ## Known Bugs
 
-_{There are no known bugs or issues.}_
+_There are no known bugs or issues._
 
 ## Support and contact details
 
-_{Nstewart@email.com}_
+_Nstewart@email.com_
 
 ## Technologies Used
 
-_{HTML, CSS, Bootstrap}_
+_HTML, CSS, Bootstrap_
 
 ### License
 
-*{MIT License
+*MIT License
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -47,6 +47,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-}*
+*
 
-Copyright (c) 2017 **_{Nathan Stewart}_**
+Copyright (c) 2017 **_Nathan Stewart_**
