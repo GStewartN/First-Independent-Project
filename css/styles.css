@@ -26,6 +26,8 @@ li {
 
 h3 {
   background-color: grey;
+  padding-right: 3px;
+  padding-left: 3px;
 }
 
 .body-color {
