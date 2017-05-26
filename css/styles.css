@@ -23,3 +23,7 @@ li {
 .float-head {
   float: left;
 }
+
+h3 {
+  background-color: grey;
+}
