@@ -8,6 +8,10 @@
 
 _This is a weekly code review project for Epicodus Intro to Programming class. Create a "portfolio" repo complete with a portfolio webpage, readme, gh-pages branch, and show commit history. The webpage, as well as the project itself is designed to demonstrate my first week skills using html, css, bootstrap, the command line, atom, and github._
 
+## gh-pages Link
+
+_https://gstewartn.github.io/Portfolio/_
+
 ## Setup/Installation Requirements
 
 None
